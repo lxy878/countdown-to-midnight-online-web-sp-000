@@ -10,5 +10,3 @@ end
 def countdown_with_sleep(time)
   sleep(time)
 end
-
-# countdown
